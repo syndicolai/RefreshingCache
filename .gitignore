@@ -1,0 +1,9 @@
+packages
+git
+.vs
+*.vssscc
+obj/
+bin/
+*.user
+Debug/
+Release/
