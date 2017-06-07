@@ -1,0 +1,13 @@
+c:\users\meltn_000\documents\visual studio 2017\Projects\RefreshingCache\RefreshingCache.Test\bin\Debug\RefreshingCache.Test.dll
+c:\users\meltn_000\documents\visual studio 2017\Projects\RefreshingCache\RefreshingCache.Test\bin\Debug\RefreshingCache.Test.pdb
+c:\users\meltn_000\documents\visual studio 2017\Projects\RefreshingCache\RefreshingCache.Test\bin\Debug\nunit.framework.dll
+c:\users\meltn_000\documents\visual studio 2017\Projects\RefreshingCache\RefreshingCache.Test\bin\Debug\RefreshingCache.dll
+c:\users\meltn_000\documents\visual studio 2017\Projects\RefreshingCache\RefreshingCache.Test\bin\Debug\RefreshingCache.pdb
+c:\users\meltn_000\documents\visual studio 2017\Projects\RefreshingCache\RefreshingCache.Test\bin\Debug\nunit.framework.xml
+c:\users\meltn_000\documents\visual studio 2017\Projects\RefreshingCache\RefreshingCache.Test\obj\Debug\RefreshingCache.Test.csprojResolveAssemblyReference.cache
+c:\users\meltn_000\documents\visual studio 2017\Projects\RefreshingCache\RefreshingCache.Test\obj\Debug\RefreshingCache.Test.dll
+c:\users\meltn_000\documents\visual studio 2017\Projects\RefreshingCache\RefreshingCache.Test\obj\Debug\RefreshingCache.Test.pdb
+c:\users\meltn_000\documents\visual studio 2017\Projects\RefreshingCache\RefreshingCache.Test\bin\Debug\Castle.Core.dll
+c:\users\meltn_000\documents\visual studio 2017\Projects\RefreshingCache\RefreshingCache.Test\bin\Debug\Moq.dll
+c:\users\meltn_000\documents\visual studio 2017\Projects\RefreshingCache\RefreshingCache.Test\bin\Debug\Castle.Core.xml
+c:\users\meltn_000\documents\visual studio 2017\Projects\RefreshingCache\RefreshingCache.Test\bin\Debug\Moq.xml

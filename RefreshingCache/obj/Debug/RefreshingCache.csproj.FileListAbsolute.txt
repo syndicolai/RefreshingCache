@@ -1,0 +1,5 @@
+c:\users\meltn_000\documents\visual studio 2017\Projects\RefreshingCache\RefreshingCache\bin\Debug\RefreshingCache.dll
+c:\users\meltn_000\documents\visual studio 2017\Projects\RefreshingCache\RefreshingCache\bin\Debug\RefreshingCache.pdb
+c:\users\meltn_000\documents\visual studio 2017\Projects\RefreshingCache\RefreshingCache\obj\Debug\RefreshingCache.dll
+c:\users\meltn_000\documents\visual studio 2017\Projects\RefreshingCache\RefreshingCache\obj\Debug\RefreshingCache.pdb
+c:\users\meltn_000\documents\visual studio 2017\Projects\RefreshingCache\RefreshingCache\obj\Debug\RefreshingCache.csprojResolveAssemblyReference.cache
